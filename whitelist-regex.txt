@@ -1,0 +1,6 @@
+# RegEx Whitelist
+# This contains RegEx pattern to whitelist
+
+# TUM
+(\.|^)lrz\.de$
+(\.|^)tum\.de$
