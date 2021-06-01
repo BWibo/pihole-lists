@@ -1,6 +1,6 @@
 # RegEx Whitelist
-# This contains RegEx pattern to whitelist
+# This list contains RegEx patterns to whitelist
 
-# TUM
+# Technical University of Munich (TUM) and LRZ services
 (\.|^)lrz\.de$
 (\.|^)tum\.de$
