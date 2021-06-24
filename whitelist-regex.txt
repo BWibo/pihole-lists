@@ -4,3 +4,4 @@
 # Technical University of Munich (TUM) and LRZ services
 (\.|^)lrz\.de$
 (\.|^)tum\.de$
+(\.|^)mwn\.de$
