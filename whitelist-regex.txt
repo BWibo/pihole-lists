@@ -6,5 +6,5 @@
 (\.|^)tum\.de$
 (\.|^)mwn\.de$
 
-# Microsoft Azure ActiveDirectory
-(\.|^)ad\.ext\.azure\.com$
+# Microsoft Azure
+(\.|^)azure\.com$
