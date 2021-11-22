@@ -2,4 +2,4 @@
 # This list contains exact domains to whitelist
 
 track.versand-status.de
-adv-online.de
+www.adv-online.de
