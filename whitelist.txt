@@ -3,3 +3,7 @@
 
 track.versand-status.de
 www.adv-online.de
+
+# Social media
+web.whatsapp.com
+facebook.com
