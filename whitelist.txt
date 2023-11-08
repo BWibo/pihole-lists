@@ -7,4 +7,4 @@ www.adv-online.de
 # Social media
 web.whatsapp.com
 facebook.com
-linkedin.com
+www.linkedin.com
