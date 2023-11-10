@@ -8,3 +8,4 @@ www.adv-online.de
 web.whatsapp.com
 facebook.com
 www.linkedin.com
+static.licdn.com
