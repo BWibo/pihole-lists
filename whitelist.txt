@@ -9,6 +9,8 @@ web.whatsapp.com
 facebook.com
 www.linkedin.com
 static.licdn.com
+media.licdn.com
+platform.linkedin.com
 
 # SZ login
 buy-eu.piano.io
