@@ -11,6 +11,7 @@ www.linkedin.com
 static.licdn.com
 media.licdn.com
 platform.linkedin.com
+de.linkedin.com
 
 # SZ login
 buy-eu.piano.io
