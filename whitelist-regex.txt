@@ -8,3 +8,6 @@
 
 # Microsoft Azure
 (\.|^)azure\.com$
+
+# Whatsapp web
+(\.|^)cdn\.whatsapp\.net$

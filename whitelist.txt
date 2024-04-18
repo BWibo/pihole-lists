@@ -5,7 +5,6 @@ track.versand-status.de
 www.adv-online.de
 
 # Social media
-web.whatsapp.com
 facebook.com
 www.linkedin.com
 static.licdn.com
@@ -14,8 +13,14 @@ platform.linkedin.com
 de.linkedin.com
 reddit.com
 www.reddit.com
+redditstatic.com
+www.redditstatic.com
 
 # SZ login
 buy-eu.piano.io
 id-eu.piano.io
 cdn.piano.io
+
+# Whatsapp web
+web.whatsapp.com
+static.whatsapp.net
